@@ -72,7 +72,7 @@ Execute the program using runserver command.
 </table> 
 
 <center>
-    <h1>Slot Time Table - Dinesh 212224040076</h1>
+    <h1>Slot Time Table -MADHAN 212224040175</h1>
     <br>
     <table border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; width: 80%; text-align: center;" bordercolor="yellow">
         <tr>
